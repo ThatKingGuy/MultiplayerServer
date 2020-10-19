@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MultiplayerServer:jar">
+    <output-path>$USER_HOME$/Desktop/MultiplayerGame</output-path>
+    <root id="archive" name="MultiplayerServer.jar">
+      <element id="module-output" name="MultiplayerServer" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
